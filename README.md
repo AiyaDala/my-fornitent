@@ -1,4 +1,4 @@
-# Frontend Design Skill
+# My-Fornitent
 
 A structured approach to frontend design and implementation for Claude Code — from understanding user needs to delivering production-quality Vue 3 + TypeScript components.
 
@@ -12,12 +12,12 @@ This skill provides:
 
 ## Installation
 
-Copy the `SKILL.md` and `references/` directory into your project's `.claude/skills/frontend-design-skill/` folder:
+Copy the `SKILL.md` and `references/` directory into your project's `.claude/skills/my-fornitent/` folder:
 
 ```
 .claude/
 └── skills/
-    └── frontend-design-skill/
+    └── my-fornitent/
         ├── SKILL.md
         └── references/
             ├── vue3-patterns.md

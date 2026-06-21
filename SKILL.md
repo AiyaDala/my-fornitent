@@ -1,5 +1,5 @@
 ---
-name: frontend-design
+name: my-fornitent
 description: >
   Frontend UI/UX design and implementation skill. Use this skill when the user asks for
   UI design, UX design, component design, design system setup, design-to-code conversion,
